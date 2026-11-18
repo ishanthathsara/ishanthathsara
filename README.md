@@ -1,24 +1,30 @@
-
-
-\<div align="center">
+<div align="center">
 
 # 👋 Hey, I'm Nirmal Ishan
 
 ### Software Engineering Student · Backend Developer · AI & LLM Enthusiast
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Exploring+AI+%26+LLM+Engineering;Developing+Intelligent+AI+Agents;Learning+Software+Architecture;Turning+Ideas+Into+Software](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=650\&lines=Building+Scalable+Backend+Systems;Exploring+AI+%26+LLM+Engineering;Developing+Intelligent+AI+Agents;Learning+Software+Architecture;Turning+Ideas+Into+Software)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Exploring+AI+%26+LLM+Engineering;Developing+Intelligent+AI+Agents;Learning+Software+Architecture;Turning+Ideas+Into+Software" alt="Typing SVG" />
 
-\<br/>
+<br/>
 
-\<a href="[https://github.com/ishanthathsara](https://github.com/ishanthathsara)">   \<img src="[https://komarev.com/ghpvc/?username=ishanthathsara&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge](https://komarev.com/ghpvc/?username=ishanthathsara\&label=PROFILE+VIEWS\&color=0e75b6\&style=for-the-badge)" alt="Profile Views"/> \</a> \<a href="[https://github.com/ishanthathsara?tab=followers](https://github.com/ishanthathsara?tab=followers)">   \<img src="[https://img.shields.io/github/followers/ishanthathsara?style=for-the-badge&color=236ad3&label=Followers](https://img.shields.io/github/followers/ishanthathsara?style=for-the-badge\&color=236ad3\&label=Followers)" alt="Followers"/> \</a> \<a href="[https://github.com/ishanthathsara?tab=repositories](https://github.com/ishanthathsara?tab=repositories)">   \<img src="[https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge\&logo=github)" alt="Repositories"/> \</a>
+<a href="https://github.com/ishanthathsara">
+  <img src="https://komarev.com/ghpvc/?username=ishanthathsara&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
+<a href="https://github.com/ishanthathsara?tab=followers">
+  <img src="https://img.shields.io/github/followers/ishanthathsara?style=for-the-badge&color=236ad3&label=Followers" alt="Followers"/>
+</a>
+<a href="https://github.com/ishanthathsara?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Repositories"/>
+</a>
 
-\<br/>\<br/>
+<br/><br/>
 
 📍 Sri Lanka 🇱🇰
 
 **Building software. Exploring intelligence. Engineering the future.**
 
-\</div>
+</div>
 
 ---
 
@@ -48,21 +54,21 @@ I enjoy understanding how software works behind the scenes, designing efficient 
 
 ### 💻 Programming Languages
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,java,js,dart&theme=dark](https://skillicons.dev/icons?i=python,java,js,dart\&theme=dark)" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,dart&theme=dark" alt="Programming Languages"/>
+</p>
 
 ### 🌐 Frontend & Backend Development
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,react,angular,fastapi,spring&theme=dark](https://skillicons.dev/icons?i=html,css,react,angular,fastapi,spring\&theme=dark)" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,fastapi,spring&theme=dark" alt="Frontend and Backend Technologies"/>
+</p>
 
 ### 🤖 Artificial Intelligence & LLM Engineering
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark](https://skillicons.dev/icons?i=python,pytorch,tensorflow\&theme=dark)" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI Technologies"/>
+</p>
 
 **Areas of Interest**
 
@@ -78,7 +84,9 @@ I enjoy understanding how software works behind the scenes, designing efficient 
 
 ### 🗄️ Databases & Data Engineering
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis\&theme=dark)" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" alt="Database Technologies"/>
+</p>
 
 **Technologies & Concepts**
 
@@ -90,9 +98,9 @@ I enjoy understanding how software works behind the scenes, designing efficient 
 
 ### ☁️ Cloud & DevOps
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=dark](https://skillicons.dev/icons?i=aws,docker,git,github,linux\&theme=dark)" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=dark" alt="Cloud and DevOps Technologies"/>
+</p>
 
 **Technologies & Concepts**
 
@@ -105,9 +113,9 @@ I enjoy understanding how software works behind the scenes, designing efficient 
 
 ### 📱 Mobile Development
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=flutter,dart&theme=dark](https://skillicons.dev/icons?i=flutter,dart\&theme=dark)" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile Development"/>
+</p>
 
 ### 🧪 Testing & Quality Assurance
 
@@ -121,8 +129,8 @@ I enjoy understanding how software works behind the scenes, designing efficient 
 
 ## 🧠 Technical Knowledge & Learning Journey
 
-\<details>
-\<summary>\<b>🐍 Professional Python Development\</b>\</summary>
+<details>
+<summary><b>🐍 Professional Python Development</b></summary>
 
 - Python Fundamentals
 - Advanced Data Structures
@@ -133,10 +141,10 @@ I enjoy understanding how software works behind the scenes, designing efficient 
 - Exception Handling
 - Custom Exceptions
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>⚡ FastAPI Backend Development\</b>\</summary>
+<details>
+<summary><b>⚡ FastAPI Backend Development</b></summary>
 
 - REST API Architecture
 - FastAPI
@@ -147,10 +155,10 @@ I enjoy understanding how software works behind the scenes, designing efficient 
 - JWT Authentication
 - Asynchronous Programming
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>🤖 Artificial Intelligence & Machine Learning\</b>\</summary>
+<details>
+<summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
 
 - AI Fundamentals
 - Linear Algebra
@@ -164,10 +172,10 @@ I enjoy understanding how software works behind the scenes, designing efficient 
 - Neural Networks
 - Backpropagation
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>🧠 Large Language Model Engineering\</b>\</summary>
+<details>
+<summary><b>🧠 Large Language Model Engineering</b></summary>
 
 - LLM Architecture
 - GPT, Claude, LLaMA & Mistral
@@ -181,10 +189,10 @@ I enjoy understanding how software works behind the scenes, designing efficient 
 - Embeddings
 - Local LLM Inference with Ollama
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>🤖 AI Agent & Workflow Engineering\</b>\</summary>
+<details>
+<summary><b>🤖 AI Agent & Workflow Engineering</b></summary>
 
 - Single-Agent & Multi-Agent Systems
 - Task Decomposition
@@ -195,10 +203,10 @@ I enjoy understanding how software works behind the scenes, designing efficient 
 - Human Approval Workflows
 - Long-Running Workflows
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>☕ Java & Enterprise Development\</b>\</summary>
+<details>
+<summary><b>☕ Java & Enterprise Development</b></summary>
 
 - Java Fundamentals
 - Object-Oriented Programming
@@ -214,10 +222,10 @@ I enjoy understanding how software works behind the scenes, designing efficient 
 - Microservices
 - Spring Cloud
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>⚛️ Frontend Development\</b>\</summary>
+<details>
+<summary><b>⚛️ Frontend Development</b></summary>
 
 - HTML5 & CSS3
 - Flexbox & CSS Grid
@@ -231,10 +239,10 @@ I enjoy understanding how software works behind the scenes, designing efficient 
 - Angular
 - RxJS
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>☁️ Cloud, DevOps & Software Architecture\</b>\</summary>
+<details>
+<summary><b>☁️ Cloud, DevOps & Software Architecture</b></summary>
 
 - AWS
 - IAM
@@ -248,10 +256,10 @@ I enjoy understanding how software works behind the scenes, designing efficient 
 - Fault Tolerance
 - Observability
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>📱 Flutter Development\</b>\</summary>
+<details>
+<summary><b>📱 Flutter Development</b></summary>
 
 - Dart
 - Flutter Framework
@@ -263,7 +271,7 @@ I enjoy understanding how software works behind the scenes, designing efficient 
 - API Integration
 - Local Data Storage
 
-\</details>
+</details>
 
 ---
 
@@ -329,13 +337,13 @@ My main areas of technical focus:
                             |
           +-----------------+-----------------+
           |                 |                 |
-     BACKEND              AI / LLM          FULL STACK
+       BACKEND             AI / LLM        FULL STACK
           |                 |                 |
-     Python             Machine Learning     React
-     FastAPI             Deep Learning       Angular
-     Java                LLM Engineering     Flutter
-     Spring Boot         RAG                 Databases
-     REST APIs           AI Agents
+       Python          Machine Learning      React
+       FastAPI          Deep Learning        Angular
+       Java             LLM Engineering      Flutter
+       Spring Boot      RAG                  Databases
+       REST APIs        AI Agents
           |                 |                 |
           +-----------------+-----------------+
                             |
@@ -352,25 +360,25 @@ My main areas of technical focus:
 
 ## 📊 GitHub Statistics
 
-\<div align="center">
+<div align="center">
 
-\<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=ishanthathsara&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=ishanthathsara\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github\&include_all_commits=true)" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishanthathsara&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
 
-\<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ishanthathsara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanthathsara\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanthathsara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img src="[https://streak-stats.demolab.com?user=ishanthathsara&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=ishanthathsara\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak Statistics"/>
+<img src="https://streak-stats.demolab.com?user=ishanthathsara&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics"/>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=ishanthathsara&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=ishanthathsara\&theme=tokyo-night\&hide_border=true\&area=true)" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanthathsara&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img src="[https://github-profile-trophy.vercel.app/?username=ishanthathsara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1](https://github-profile-trophy.vercel.app/?username=ishanthathsara\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8\&row=1)" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ishanthathsara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
 
-\</div>
+</div>
 
 ---
 
@@ -388,22 +396,22 @@ My main areas of technical focus:
 
 ## 📫 Connect With Me
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://github.com/ishanthathsara](https://github.com/ishanthathsara)">
-&#x20; \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
-\</a>
+<a href="https://github.com/ishanthathsara">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ### 💻 Learn. Build. Improve. Repeat. 🚀
 
 **"Great software is built through curiosity, consistency, and continuous learning."**
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0F2027,50:203A43,100:2C5364\&height=120\&section=footer)" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Footer"/>
 
-\</div>
+</div>
